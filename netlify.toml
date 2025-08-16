@@ -1,6 +1,4 @@
 [build]
-  command = "npm run build"
-  publish = "."
-  functions = "netlify/functions"
+  publish = "C:/Users/itsre/VScode/site_pixel_capi"
 [functions]
   node_bundler = "esbuild"
